@@ -15,7 +15,7 @@
 ### ⚙️ Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggagewor&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggagewor&layout=compact" alt="top langs" />
 </p>
 
 ---
@@ -23,3 +23,5 @@
 <p align="center">
   <em>"Coding boleh serius, tapi jangan lupa ngopi ☕ & jaga keluarga ❤️"</em>
 </p>
+
+---
