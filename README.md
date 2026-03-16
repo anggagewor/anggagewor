@@ -33,11 +33,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggagewor&layout=compact" alt="top langs" />
+  <img src="https://thedevdna.vercel.app/api/dev-dna?username=anggagewor&theme=dark" alt="top langs" />
 </p>
-
 ---
 
 ### ☕ Life Motto
