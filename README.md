@@ -1,126 +1,53 @@
-# Hi, I'm Angga Purnama 👋
+# Hey, I'm Angga 👋
 
-> **Software Engineer focused on Developer Experience.**
-> I enjoy building tools that help developers work faster, write cleaner code, and ship with confidence.
+Software engineer from Indonesia. I build developer tools and weekend projects that usually start with *"this should be easier."*
 
----
-
-## 🚀 Open Source Projects
-
-### 📦 Crate
-
-A local-first developer toolbox built with **Tauri 2** and **Vue 3**. It bundles everyday utilities like JSON formatting, UUID generation, hashing, Base64 encoding, cron helpers, JWT inspection, and more into a fast native desktop application.
-
-### 🚀 Snag
-
-A modern API client built with **Tauri 2**, **Vue 3**, and **Rust**, focused on speed, native performance, and a clean developer experience.
-
-### 🏗️ Purdia
-
-An opinionated **Laravel 13 DDD Starter Kit** for building scalable, maintainable enterprise applications with a modular architecture and reusable UI components.
+Most of what I ship is stuff I actually use daily — if it solves my problem, maybe it solves yours too.
 
 ---
 
-## 🤖 Currently Exploring
+## 🚀 What I'm Building
 
-* AI Agents
-* Model Context Protocol (MCP)
-* Rust ecosystem
-* Local-first desktop applications
-* Developer Experience (DevEx)
+**📦 Crate** — Local-first dev toolbox (Tauri 2 + Vue 3). JSON formatter, UUID gen, hashing, JWT inspector, etc. One app, no internet needed.
 
----
+**🚀 Snag** — API client built with Tauri 2 + Rust. Fast, native, no Electron bloat.
 
-## 🧠 About Me
-
-I'm a software engineer from Indonesia who enjoys solving problems by building tools.
-
-Most of my side projects start with a simple thought:
-
-> *"This should be easier."*
-
-That idea often turns into a CLI, desktop app, automation script, or open-source project.
-
-I'm particularly interested in software architecture, developer tooling, and creating products that remove friction from everyday development workflows.
+**🏗️ Purdia** — Vue 3 admin dashboard with 40+ components. POS, CRM, HRM, Accounting — all included. Also doubles as a Laravel DDD starter kit.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 What I'm Into Right Now
 
-### Backend
-
-* Laravel
-* PHP
-* MySQL
-* REST APIs
-
-### Frontend
-
-* Vue 3
-* TypeScript
-* Tailwind CSS
-
-### Desktop
-
-* Tauri
-* Rust (learning)
-
-### DevOps & System
-
-* Linux
-* Nginx
-* Bash
-* Git
-
-### Architecture
-
-* Domain-Driven Design (DDD)
-* Modular Monolith
-* Clean Architecture
-* Architecture Decision Records (ADR)
+- AI Agents & MCP (Model Context Protocol)
+- Rust — still learning, already hooked
+- Local-first desktop apps (Tauri gang)
+- Making developer workflows less painful
 
 ---
 
-## 🛠 Things I Like Building
+## 💻 Stack
 
-* Developer Tools
-* Desktop Applications
-* CLI Utilities
-* API Clients
-* Automation Scripts
-* Internal Platforms
-* Scalable Backend Systems
-
----
-
-## 🌱 Currently Learning
-
-* AI Engineering
-* MCP
-* Rust
-* Distributed Systems
-* System Design
+| Layer | Tools |
+|-------|-------|
+| Backend | Laravel, PHP, MySQL |
+| Frontend | Vue 3, TypeScript, Tailwind CSS |
+| Desktop | Tauri, Rust |
+| Infra | Linux, Nginx, Git |
+| Architecture | DDD, Modular Monolith, Clean Architecture |
 
 ---
 
-## 📫 Let's Connect
+## 📫 Find Me
 
-Feel free to explore my repositories or reach out if you're interested in backend architecture, developer tooling, or open source.
-
----
-
-> **Build tools. Improve developer experience. Keep learning.**
-
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=angga-purnama&label=Profile%20views&color=0e75b6&style=flat" alt="angga-purnama" />
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p>
+  <a href="https://saweria.co/anggagewor"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://www.linkedin.com/in/angga-purnama-106633b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@anggagewor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/anggagewor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.threads.net/@anggagewor"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.facebook.com/anggagewor"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
+
+---
+
+> Build tools. Ship fast. Keep learning.
