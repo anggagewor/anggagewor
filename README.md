@@ -40,12 +40,24 @@ Most of what I ship is stuff I actually use daily — if it solves my problem, m
 ## 📫 Find Me
 
 <p>
-  <a href="https://saweria.co/anggagewor"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-  <a href="https://www.linkedin.com/in/angga-purnama-106633b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@anggagewor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/anggagewor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.threads.net/@anggagewor"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
-  <a href="https://www.facebook.com/anggagewor"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://github.com/anggagewor">
+    <img src="https://img.shields.io/badge/GitHub-anggagewor-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/angga-purnama-106633b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-angga--purnama-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@anggagewor">
+    <img src="https://img.shields.io/badge/YouTube-@anggagewor-FF0000?style=flat-square&logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/anggagewor">
+    <img src="https://img.shields.io/badge/Instagram-@anggagewor-E4405F?style=flat-square&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://www.threads.net/@anggagewor">
+    <img src="https://img.shields.io/badge/Threads-@anggagewor-000000?style=flat-square&logo=threads" alt="Threads">
+  </a>
+  <a href="https://saweria.co/anggagewor">
+    <img src="https://img.shields.io/badge/☕_Support-Saweria-FF813F?style=flat-square" alt="Saweria">
+  </a>
 </p>
 
 ---
