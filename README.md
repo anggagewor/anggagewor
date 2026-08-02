@@ -8,11 +8,12 @@ Most of what I ship is stuff I actually use daily — if it solves my problem, m
 
 ## 🚀 What I'm Building
 
-**📦 Crate** — Local-first dev toolbox (Tauri 2 + Vue 3). JSON formatter, UUID gen, hashing, JWT inspector, etc. One app, no internet needed.
-
-**🚀 Snag** — API client built with Tauri 2 + Rust. Fast, native, no Electron bloat.
-
-**🏗️ Purdia** — Vue 3 admin dashboard with 40+ components. POS, CRM, HRM, Accounting — all included. Also doubles as a Laravel DDD starter kit.
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Crate** | Tauri 2, Vue 3 | Personal dev toolbox — an all-in-one desktop utility app with local file-based storage. No backend required. |
+| **Snag** | Tauri 2, Vue 3 | Fast, lightweight, native API client built for developers who want a responsive, no-bloat alternative to traditional API tools. |
+| **Purdia** | Vue 3, TS, Tailwind CSS 4 | Batteries-included admin dashboard with 40+ handcrafted components & production-ready modules (POS, CRM, HRM, Accounting, Inventory). Doubles as a Laravel DDD starter kit. |
+| **Personal** | Laravel, Vue 3 | Personal dashboard that doubles as a module incubator — where reusable Laravel modules are designed, battle-tested, and refined before being extracted into packages. |
 
 ---
 
@@ -34,6 +35,15 @@ Most of what I ship is stuff I actually use daily — if it solves my problem, m
 | Desktop | Tauri, Rust |
 | Infra | Linux, Nginx, Git |
 | Architecture | DDD, Modular Monolith, Clean Architecture |
+
+---
+
+## ⚙️ Rig & Workspace
+
+| Device | Specs / OS | Notes |
+|--------|------------|-------|
+| 💻 ThinkPad T480 | macOS Sequoia (Hackintosh) | The main battle station & tinkerer tank 🛠️ |
+| 💻 MacBook Pro 13" (2019) | macOS Sequoia | Portable dev setup 🚀 |
 
 ---
 
